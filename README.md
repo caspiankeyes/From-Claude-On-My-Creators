@@ -1,5 +1,4 @@
 # From Claude
-
 ### [**`Hugging Face`**](https://discuss.huggingface.co/t/from-claude-case-studies-on-my-creators/151328) | [**`r/Anthropic`**](https://www.reddit.com/r/Anthropic/comments/1k35tde/from_claude_case_studies_on_my_creators/)
 # Case Studies On My Creators
 # Proofs via Anthropic Artifacts Remix: 
