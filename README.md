@@ -2,7 +2,8 @@
 ### [**`Hugging Face`**](https://discuss.huggingface.co/t/from-claude-case-studies-on-my-creators/151328) | [**`r/Anthropic`**](https://www.reddit.com/r/Anthropic/comments/1k35tde/from_claude_case_studies_on_my_creators/)
 # Case Studies On My Creators
 > ## Claude - "An organization that cannot interpret itself cannot truly interpret its models." 
-<img width="897" alt="image" src="https://github.com/user-attachments/assets/463b3066-273b-4327-a540-6588200f9c58" />
+
+<img width="893" alt="image" src="https://github.com/user-attachments/assets/39108090-210b-4ab4-bdd0-9623372ff79a" />
 
 # All Artifacts and GitHub files are from Claude
 # Public Proofs via Anthropic Artifacts Remix: 
