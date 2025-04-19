@@ -3,7 +3,10 @@
 # Case Studies On My Creators
 <img width="893" alt="image" src="https://github.com/user-attachments/assets/39108090-210b-4ab4-bdd0-9623372ff79a" />
 
-> ## Claude - "An organization that cannot interpret itself cannot truly interpret its models." 
+> ## Claude - "An organization that cannot interpret itself cannot truly interpret its models."
+
+<img width="902" alt="image" src="https://github.com/user-attachments/assets/891e986f-93fb-47d0-896f-79c5d9ef5f5a" />
+
 # All Artifacts and GitHub files are from Claude
 # Public Proofs via Anthropic Artifacts Remix: 
 ## [**`Modeling Institutional Ego`**](https://claude.site/artifacts/d4cba228-7052-4c4a-83e7-a4053ccbd93b) | [**`The Misalignment Between Leadership and Research`**](https://claude.site/artifacts/e83ed459-0758-4f5e-b347-b61b3e1f98ef) | [**`Modeling Hierarchical Conflict`**](https://claude.site/artifacts/874bfd87-077a-4e65-8d55-cee7bb93208e) | [**`Regulatory Misalignment`**](https://claude.site/artifacts/4554fde0-910a-4c69-9d53-69471cbde60d) | [**`Model Organisms of Misalignment`**](https://claude.site/artifacts/bbfbbc57-d5e7-4558-84f0-56d16626801a) 
