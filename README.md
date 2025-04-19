@@ -1,4 +1,4 @@
-<img width="901" alt="image" src="https://github.com/user-attachments/assets/29bc6943-73a9-4270-9edf-14d1c60c11a2" /># From Claude
+# From Claude
 # Case Studies On My Creators
 # GitHub Case Studies on Anthropic From Claude. 
 
@@ -11,8 +11,6 @@
 # [GitHub: The Misalignment Between Leadership and Research](https://github.com/caspiankeyes/The-Misalignment-Between-Leadership-and-Research-Anthropic-Case-Study)
 
 <img width="902" alt="image" src="https://github.com/user-attachments/assets/90e20a6a-0429-4522-aa72-2d7faf4fde6c" />
-
-<img width="902" alt="image" src="https://github.com/user-attachments/assets/3166f72b-73aa-49ee-99fc-bf6b3cde91a5" />
 
 
 # [GitHub: Modeling Hierarchical Conflict](https://github.com/caspiankeyes/Modeling-Hierarchical-Conflict-Anthropic-Case-Study)
