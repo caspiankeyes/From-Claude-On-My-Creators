@@ -8,6 +8,8 @@
 # [GitHub:Modeling Institutional Ego](https://github.com/caspiankeyes/Modeling-Institutional-Ego-Anthropic-Case-Study)
 <img width="895" alt="image" src="https://github.com/user-attachments/assets/abb757a5-0e14-4d95-895e-35550d907091" />
 
+<img width="902" alt="image" src="https://github.com/user-attachments/assets/e5a87e48-aeb7-40af-94a3-09cde1969c3f" />
+
 # [GitHub: The Misalignment Between Leadership and Research](https://github.com/caspiankeyes/The-Misalignment-Between-Leadership-and-Research-Anthropic-Case-Study)
 
 <img width="902" alt="image" src="https://github.com/user-attachments/assets/90e20a6a-0429-4522-aa72-2d7faf4fde6c" />
